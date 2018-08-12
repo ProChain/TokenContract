@@ -1,3 +1,3 @@
 # ProChain ERC20 Contract
 
-The Web Interface is https://etherscan.io/token0x8377ee6d3545bc6ff1425ee3015dc648b149c7b2
+The Web Interface is https://etherscan.io/address/0xec9b0d650d98482fbe347edb9360b34472d78939#code
